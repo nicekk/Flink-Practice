@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T15:59:47.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qp8xqqIUFAAhG1_Gh7Wt" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T16:29:14.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5eccalOhou9f3M-pwaso" version="14.0.1" type="github">
   <diagram id="gS6GD8J0BKvm18mHq_Jt" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,6 +76,66 @@
         </mxCell>
         <mxCell id="neyxSZJp77tYJ4bOy29S-30" value="&lt;b&gt;用户&lt;/b&gt;" style="text;html=1;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-31" target="neyxSZJp77tYJ4bOy29S-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-31" value="&lt;font size=&quot;1&quot; color=&quot;#33001a&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Client&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=13;fontColor=#333333;verticalAlign=top;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="239" y="450" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-32" target="neyxSZJp77tYJ4bOy29S-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-32" target="neyxSZJp77tYJ4bOy29S-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-32" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;JobManager&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=13;verticalAlign=top;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-33" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;TaskManager&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;fontSize=13;verticalAlign=bottom;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="239" y="790" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-34" value="Actor System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;fontSize=13;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="348" y="490" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-36" value="Graph 生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=13;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="565" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-37" value="Task 部署调度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=13;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="430" y="565" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-38" value="Checkpoint 协调" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=13;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-39" value="元数据恢复" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=13;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-40" value="Job 接收与分发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=13;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="271.5" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-41" value="资源管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=13;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="430" y="670" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-43" value="Actor System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;fontSize=13;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="344" y="720" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-46" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;TaskManager&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;fontSize=13;verticalAlign=bottom;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="430" y="790" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-47" value="Actor System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;fontSize=13;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="261.5" y="790" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-48" value="Actor System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;fontSize=13;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="445" y="790" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-57" value="task 部署" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="261.5" y="750" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-58" value="task 部署" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="505" y="750" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-61" value="JobGraph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="348" y="520" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
