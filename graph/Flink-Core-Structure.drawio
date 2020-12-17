@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T15:32:39.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.1" etag="dneUWkegocE_eh_BezRm" type="github"><diagram id="gS6GD8J0BKvm18mHq_Jt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-17T15:59:47.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qp8xqqIUFAAhG1_Gh7Wt" version="14.0.1" type="github">
+  <diagram id="gS6GD8J0BKvm18mHq_Jt" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="neyxSZJp77tYJ4bOy29S-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-1" target="neyxSZJp77tYJ4bOy29S-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-1" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-2" target="neyxSZJp77tYJ4bOy29S-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-2" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-3" target="neyxSZJp77tYJ4bOy29S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-3" target="neyxSZJp77tYJ4bOy29S-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-3" target="neyxSZJp77tYJ4bOy29S-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="280" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-3" value="JobManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-4" value="TaskManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="670" y="91.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="neyxSZJp77tYJ4bOy29S-5" target="neyxSZJp77tYJ4bOy29S-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="390" />
+              <mxPoint x="560" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-5" value="TaskManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="670" y="288.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-9" value="1. 提交实时作业 jar 包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="85" y="200" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-11" value="&lt;b&gt;客户端&lt;/b&gt;" style="text;html=1;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="245" y="120" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-13" value="2. 提交 JobGraph 和 jar包" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="344" y="230" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-16" value="4. 提交 Task 作业" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-17" value="4. 提交 Task 作业" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-19" value="3. 提交成功返回 JobClient" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="146" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-22" value="5. 定时返回作业状态" style="text;html=1;fillColor=#f9f7ed;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="585" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-25" value="6. 返回作业执行状态到 Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="318" y="300" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-29" value="&lt;b&gt;服务端&lt;/b&gt;" style="text;html=1;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="neyxSZJp77tYJ4bOy29S-30" value="&lt;b&gt;用户&lt;/b&gt;" style="text;html=1;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
