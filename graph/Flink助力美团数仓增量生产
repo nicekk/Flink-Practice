@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T01:42:57.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36 Edg/80.0.361.109" version="14.1.1" etag="sbyiZTeGiKvJbDKnJT6G" type="github"><diagram id="JOeTTalvDhkOgsqzBgRn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-19T01:59:48.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="iz6TTlPovi1TmanDNwwP" version="14.0.5" type="github">
+  <diagram id="JOeTTalvDhkOgsqzBgRn" name="Page-1">
+    <mxGraphModel dx="1250" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" background="#283618" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-1" value="&lt;font&gt;&amp;nbsp;数据安全&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;rounded=0;glass=0;sketch=0;shadow=0;fillColor=none;strokeColor=#FFFF00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="1110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-2" value="&amp;nbsp;元数据与血缘" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=#FFFF00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="335" width="1110" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-3" value="数据集成" style="whiteSpace=wrap;html=1;verticalAlign=top;fontSize=15;fillColor=none;strokeColor=#FFFF00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-4" value="数据处理" style="whiteSpace=wrap;html=1;verticalAlign=top;fontSize=15;fillColor=none;strokeColor=#FFFF00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="390" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-5" value="数据消费" style="whiteSpace=wrap;html=1;verticalAlign=top;fontSize=15;fillColor=none;strokeColor=#FFFF00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="860" y="90" width="150" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-6" value="数据应用" style="whiteSpace=wrap;html=1;verticalAlign=top;fontSize=15;fillColor=none;strokeColor=#FFFF00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="90" width="150" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-7" value="受限域认证系统" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#DDA15E;fillColor=#D1D170;fontColor=#030302;align=center;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="455" width="208" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-8" value="加工层权限系统" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#DDA15E;fillColor=#D1D170;fontColor=#030302;align=center;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="442" y="455" width="183" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-9" value="应用层权限系统" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#DDA15E;fillColor=#D1D170;fontColor=#030302;align=center;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="709" y="454.5" width="191" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-10" value="安全审计系统" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#DDA15E;fillColor=#D1D170;fontColor=#030302;align=center;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="967" y="454.5" width="192" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-11" value="统一元数据中心" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#DDA15E;fillColor=#D1D170;fontColor=#030302;align=center;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="308" y="343.5" width="208" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjdz8D_6J8oEqyyxGhV-12" value="全链路血缘" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#DDA15E;fillColor=#D1D170;fontColor=#030302;align=center;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="688" y="343.5" width="208" height="61" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
