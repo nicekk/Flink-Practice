@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T12:59:03.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="g3GOAuWNnas5psjR_ATT" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-20T12:59:19.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hHPQADNCdurrPZCoLjyq" version="14.1.1" type="github">
   <diagram id="JOeTTalvDhkOgsqzBgRn" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="5000" background="#333333" math="0" shadow="0">
       <root>
@@ -970,30 +970,6 @@
         </mxCell>
         <mxCell id="w97G534v7pTbYb3BRw4I-176" value="Doris" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#DEDE77;fontSize=15;fontColor=#030302;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="857" y="6745" width="98" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="CYBPsjFV4pminBtsMK44-3" value="时延 5 分钟之内" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="241" y="6996" width="154" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="CYBPsjFV4pminBtsMK44-4" value="时延 5 分钟 ~ 1 小时" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="393" y="6996" width="154" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="CYBPsjFV4pminBtsMK44-5" value="1 小时以上" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="545" y="6996" width="154" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="CYBPsjFV4pminBtsMK44-6" value="实时计算" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="279" y="7057" width="94" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CYBPsjFV4pminBtsMK44-7" value="增量计算" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="428" y="7057" width="94" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CYBPsjFV4pminBtsMK44-8" value="离线计算" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="577" y="7057" width="94" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CYBPsjFV4pminBtsMK44-9" value="" style="endArrow=classic;html=1;strokeWidth=5;strokeColor=#007FFF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="224" y="7081" as="sourcePoint" />
-            <mxPoint x="729" y="7081" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
