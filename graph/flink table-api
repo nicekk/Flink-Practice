@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-12-26T13:38:57.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.1" etag="SBElZaZ_jjptbp_7D0w8" type="github"><diagram id="Mn5aBHG5wJ4P9-XkqT6q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-26T14:00:50.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="chK7AiUeT49ltG38JXwD" version="14.1.1" type="github">
+  <diagram id="Mn5aBHG5wJ4P9-XkqT6q" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="5000" background="#F0F0F0" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LoBFbSgh5UUm6yd-XgQN-1" value="SQL / Table API （Dynamic Tables）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontStyle=1;strokeWidth=1;fontSize=15;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoBFbSgh5UUm6yd-XgQN-2" value="DataStream API （Streams，Windows）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontStyle=1;strokeWidth=1;fontSize=15;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoBFbSgh5UUm6yd-XgQN-3" value="Process Function（events，states，time）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontStyle=1;strokeWidth=1;fontSize=15;fillColor=#8FBDFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoBFbSgh5UUm6yd-XgQN-5" value="High-Level Analytics Api" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoBFbSgh5UUm6yd-XgQN-6" value="Stream &amp;amp; Batch Data Processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoBFbSgh5UUm6yd-XgQN-7" value="Stateful Event-Driven Applications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
