@@ -1,6 +1,6 @@
-package com.hudsun.flink.javaprepare.serviceimpl;
+package com.hudsun.flink.javaspi.serviceimpl;
 
-import com.hudsun.flink.javaprepare.serviceprovider.MyService;
+import com.hudsun.flink.javaspi.serviceprovider.MyService;
 
 /**
  * 实现类 B

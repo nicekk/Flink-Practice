@@ -1,6 +1,6 @@
-package com.hudsun.flink.javaprepare;
+package com.hudsun.flink.javaspi;
 
-import com.hudsun.flink.javaprepare.serviceprovider.MyService;
+import com.hudsun.flink.javaspi.serviceprovider.MyService;
 
 import java.util.Iterator;
 import java.util.ServiceLoader;

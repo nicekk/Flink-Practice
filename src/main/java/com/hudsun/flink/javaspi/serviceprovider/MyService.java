@@ -1,4 +1,4 @@
-package com.hudsun.flink.javaprepare.serviceprovider;
+package com.hudsun.flink.javaspi.serviceprovider;
 
 /**
  * 服务接口
