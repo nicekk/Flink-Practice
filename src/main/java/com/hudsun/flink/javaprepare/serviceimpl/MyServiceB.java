@@ -1,4 +1,6 @@
-package com.hudsun.flink.javaprepare;
+package com.hudsun.flink.javaprepare.serviceimpl;
+
+import com.hudsun.flink.javaprepare.serviceprovider.MyService;
 
 /**
  * 实现类 B
@@ -6,7 +8,7 @@ package com.hudsun.flink.javaprepare;
  * @Author wangkai
  * @Time 2021/1/27 15:11
  */
-public class MyServiceB implements MyService{
+public class MyServiceB implements MyService {
 
     @Override
     public void doSomething() {
